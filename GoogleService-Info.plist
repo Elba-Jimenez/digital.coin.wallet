@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>155591819246-j3s7hueodeaausevvq08ocvo23u543ni.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.155591819246-j3s7hueodeaausevvq08ocvo23u543ni</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBHMxQYk5BSD4zIzZsZ78LOh350jEq-V_g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>155591819246</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Digital.Coin.wallet</string>
+	<key>PROJECT_ID</key>
+	<string>digital-coin-wallet</string>
+	<key>STORAGE_BUCKET</key>
+	<string>digital-coin-wallet.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:155591819246:ios:d295acc900e43287bdd8ff</string>
+</dict>
+</plist>

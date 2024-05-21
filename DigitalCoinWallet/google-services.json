@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "155591819246",
+    "project_id": "digital-coin-wallet",
+    "storage_bucket": "digital-coin-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155591819246:android:85a3ee0b43e7f95abdd8ff",
+        "android_client_info": {
+          "package_name": "Digital.coin.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155591819246-4vnl5et7bakvl2phn056ukqv3qao4ija.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKkjsCg67TjaNoFGWYNS5qMgUTZvnOHF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155591819246-4vnl5et7bakvl2phn056ukqv3qao4ija.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "155591819246-j3s7hueodeaausevvq08ocvo23u543ni.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Digital.Coin.wallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
